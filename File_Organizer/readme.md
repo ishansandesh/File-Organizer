@@ -17,10 +17,11 @@ A Python script to organize files in a directory based on their type (e.g., imag
  1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/file-organizer.git
+   git clone https://github.com/ishansandesh/file-organizer.git
    cd file-organizer
    pip install -r requirements.txt
    python file_organizer.py
 
  Next :
 	 -Enter you file Path
+
